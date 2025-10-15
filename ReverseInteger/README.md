@@ -24,4 +24,4 @@ Given a signed 32-bit integer x, return x with its digits reversed. If reversing
 
 **Constraints:**
 
--231 <= x <= 231 - 1
+-2^31 <= x <= 2^31 - 1
